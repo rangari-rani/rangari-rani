@@ -10,14 +10,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rangari-rani&show_icons=true&locale=en" alt="rangari-rani" /></p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-rani-phi.vercel.app/](https://portfolio-rani-phi.vercel.app/)
 
-- 📫 How to reach me **ranirangari2@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rani-rangari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rani-rangari/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ranirangari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ranirangari" height="30" width="40" /></a>
-</p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangari-rani&label=Profile%20views&color=0e75b6&style=flat" alt="rangari-rani" /> </p> -->
 
