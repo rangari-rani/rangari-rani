@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rani Rangari</h1>
-<h3 align="center">A passionate software developer focused on learning, growing and building impactful applications.</h3>
+<!-- <h3 align="center">A passionate software developer focused on learning, growing and building impactful applications.</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rangari-rani&label=Profile%20views&color=0e75b6&style=flat" alt="rangari-rani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rangari-rani" alt="rangari-rani" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rani-phi.vercel.app/](https://portfolio-rani-phi.vercel.app/)
 
@@ -21,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rangari-rani&show_icons=true&locale=en&layout=compact" alt="rangari-rani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rangari-rani&show_icons=true&locale=en" alt="rangari-rani" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rangari-rani&label=Profile%20views&color=0e75b6&style=flat" alt="rangari-rani" /> </p>
+
