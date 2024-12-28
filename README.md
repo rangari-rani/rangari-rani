@@ -13,5 +13,5 @@
 
 
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangari-rani&label=Profile%20views&color=0e75b6&style=flat" alt="rangari-rani" /> </p> 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangari-rani&label=Profile%20views&color=0e75b6&style=flat" alt="rangari-rani" /> </p> -->
 
