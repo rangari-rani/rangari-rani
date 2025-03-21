@@ -1,6 +1,6 @@
 <h3 align="left">Hi 👋, I'm Rani Rangari</h3>
 
-👋 Hello! I'm an aspiring **Software Engineer** with a passion for solving complex problems and building scalable applications. 🚀  
+👋 Hello there! I'm an aspiring **Software Engineer** with a passion for solving complex problems and building scalable applications. 🚀  
 
 🚀 **Current Focus**  
 - 🌐 **DSA Preparation** – Solving questions from the **Striver A2Z DSA Sheet** to strengthen problem-solving skills.
@@ -10,7 +10,7 @@
 🛠️ **Tech Stack**  
 - Java ☕️  
 - Spring Boot 🌸  
-- ReactJS 🅰️  
+- ReactJS ⚛️ 
 - MySQL 🗄️  
 - AWS ☁️  
 - Docker 🐳  
