@@ -1,10 +1,9 @@
 <h3 align="left">Hi 👋, I'm Rani Rangari</h3>
 
 👋 Hello! I'm an aspiring **Software Engineer** with a passion for solving complex problems and building scalable applications. 🚀  
-- 💻 Currently focused on strengthening my **DSA skills** and building impactful **full-stack projects** using **ReactJS, Spring Boot, MySQL, AWS, and Docker**.  
 
 🚀 **Current Focus**  
-- 🌐 **DSA Preparation** – Solving questions from the **Striver A2Z sheet** (Easy + Medium).  
+- 🌐 **DSA Preparation** – Solving questions from the **Striver A2Z DSA Sheet** to strengthen problem-solving skills.
 - 🏗️ **Full-Stack Projects** – Developing real-world projects with **React**, **Spring Boot**, and **Docker**.  
 - ☁️ **Cloud + Deployment** – Leveraging **AWS** and **Jenkins** for smooth deployment.  
 
