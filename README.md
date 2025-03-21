@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rani Rangari</h1>
+<h1 align="left">Hi 👋, I'm Rani Rangari</h1>
 <!-- <h3 align="center">A passionate software developer focused on learning, growing and building impactful applications.</h3> -->
 
 
