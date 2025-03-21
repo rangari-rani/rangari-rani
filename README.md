@@ -4,7 +4,7 @@
 
 🚀 **Current Focus**  
 - 🌐 **DSA Preparation** – Solving questions from the **Striver A2Z DSA Sheet** to strengthen problem-solving skills.
-- 🏗️ **Full-Stack Projects** – Developing real-world projects with **React**, **Spring Boot**, and **Docker**.  
+- 🏗️ **Full-Stack Projects** – Working on projects using **React**, **Spring Boot**, **MySQL** and **Docker**.  
 - ☁️ **Cloud + Deployment** – Leveraging **AWS** and **Jenkins** for smooth deployment.  
 
 🛠️ **Tech Stack**  
