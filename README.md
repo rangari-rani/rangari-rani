@@ -22,8 +22,7 @@
 
 📚 **Projects**  
 - **E-commerce App** – Fitness and Wellness theme, built with **Spring Boot** and **ReactJS**.  
-- **Quiz App** – REST API-based, using **OAuth2**, **JWT**, and **React Router**.  
-- **Salon-Based Microservices App** – End-to-end microservices with **Docker** and **Kubernetes**.  
+
 
 💬 **Let's Connect!**  
 - 📧 Reach out to me on [**LinkedIn**](https://www.linkedin.com/in/rani-rangari/) – Let’s collaborate and create something amazing! ✨  
