@@ -24,8 +24,8 @@
 - **E-commerce App** – Fitness and Wellness theme, built with **Spring Boot** and **ReactJS**.  
 
 
-💬 **Let's Connect!**  
-- 📧 Reach out to me on [**LinkedIn**](https://www.linkedin.com/in/rani-rangari/) – Let’s collaborate and create something amazing! ✨  
+💬 **Let's Connect!**
+- 📧 Reach out to me on [**LinkedIn**](https://www.linkedin.com/in/rani-rangari/)  ✨  
 
 
 <!-- <h3 align="center">A passionate software developer focused on learning, growing and building impactful applications.</h3> -->
