@@ -1,35 +1,44 @@
-<h3 align="left">Hi 👋, I'm Rani Rangari</h3>
+# 👋 Hi, I’m Rani Rangari
 
-👋 Hello there! I'm an aspiring **Software Engineer** with a passion for solving complex problems and building scalable applications. 🚀  
+### 🎓 MCA Graduate | 🎖️ CDAC Certified Full Stack Developer (ReactJS + Spring Boot) | 💡 Problem Solver & Learner
 
-🚀 **Current Focus**  
+Welcome to my GitHub! I’m passionate about building scalable full-stack applications and mastering Data Structures & Algorithms (DSA) through consistent practice and projects. Always eager to learn new technologies and collaborate on exciting projects.
 
-- 🏗️ **Full-Stack Projects** – Working on projects using **React**, **Spring Boot**, **MySQL** and **Docker**.  
-- ☁️ **Cloud + Deployment** – Leveraging **AWS** and **Jenkins** for smooth deployment.  
+---
 
-🛠️ **Tech Stack**  
-- Java ☕️  
-- Spring Boot 🌸  
-- ReactJS ⚛️ 
-- MySQL 🗄️  
-- AWS ☁️  
-- Docker 🐳  
-- Kubernetes ☸️  
-- System Design 📐  
-- GitHub Actions 🔄  
-- TypeScript 🔡  
-- DSA 🔬  
+## 🚀 What I Do
 
-📚 **Projects**  
-- **E-commerce App** – Fitness and Wellness theme, built with **Spring Boot** and **ReactJS**.  
+- 💻 Develop full-stack web apps with **Java**, **Spring Boot**, **ReactJS**, **TypeScript**, **Material-UI**  
+- 🔧 Build REST APIs and backend services with robust business logic  
+- 📱 Create responsive, user-friendly frontends  
+- 🐳 Use **Docker** & **Redis** for containerization and caching  
+- 🧠 Regularly solve DSA problems to sharpen my algorithmic and problem-solving skills  
 
+---
 
-💬 **Let's Connect!**
-- 📧 Reach out to me on [**LinkedIn**](https://www.linkedin.com/in/rani-rangari/)  ✨  
+## 📚 Current Projects
 
+- 🛒 **Wellness Cart** — Ecommerce app using React, Spring Boot, MySQL, Docker, Redis caching  
+- 📊 **DSA Tracker** — Tracking progress on Striver’s A2Z roadmap and interview prep  
 
-<!-- <h3 align="center">A passionate software developer focused on learning, growing and building impactful applications.</h3> -->
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rangari-rani&show_icons=true&locale=en&layout=compact" alt="rangari-rani" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rangari-rani&show_icons=true&locale=en" alt="rangari-rani" /></p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangari-rani&label=Profile%20views&color=0e75b6&style=flat" alt="rangari-rani" /> </p> -->
+---
 
+## 🛠️ Tech Stack
+
+| Backend              | Frontend             | Databases          | Tools & More              |
+|----------------------|----------------------|--------------------|---------------------------|
+| ☕ Java, Spring Boot  | ⚛️ ReactJS           | 🐬 MySQL           | 🐳 Docker, Redis, Maven   |
+| 🔗 REST APIs          | 📜 JavaScript        | 🍃 MongoDB         | 🧑‍💻 IntelliJ IDEA, VS Code |
+| 📚 DSA & Algorithms   | 📘 TypeScript        |                    | 🔧 Git, GitHub             |
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rani_Rangari-blue?logo=linkedin)](https://www.linkedin.com/in/rani-rangari/)
+
+---
+
+⭐️ Feel free to explore my repos, star the ones you like, and connect with me! Let’s build, learn, and grow together.
+
+---
