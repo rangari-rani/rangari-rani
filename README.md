@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rani Rangari
 
-### 🎓 MCA Graduate | 🎖️ CDAC Certified Full Stack Developer (ReactJS + Spring Boot) | 💡 Problem Solver & Learner
+### 🎓 MCA Graduate | 🎖️ CDAC Certified Full Stack Developer (ReactJS + Spring Boot) 
 
 Welcome to my GitHub! I’m passionate about building scalable full-stack applications and mastering Data Structures & Algorithms (DSA) through consistent practice and projects. Always eager to learn new technologies and collaborate on exciting projects.
 
