@@ -46,7 +46,8 @@ I love turning real-world problems into efficient, scalable applications with cl
 ---
 
 ## 📫 Let’s Connect
-I'm currently open to full-time roles as a **Java Full Stack Developer** (ReactJS + Spring Boot).
+
+I'm currently open to full-time roles as a **Java Full Stack Developer** (ReactJS + Spring Boot).  
 Feel free to reach out or connect with me on LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rani_Rangari-blue?logo=linkedin)](https://www.linkedin.com/in/rani-rangari/)
