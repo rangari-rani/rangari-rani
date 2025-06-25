@@ -8,18 +8,30 @@ Welcome to my GitHub! I’m passionate about building scalable full-stack applic
 
 ## 🚀 What I Do
 
-- 💻 Develop full-stack web apps with **Java**, **Spring Boot**, **ReactJS**, **TypeScript**, **Material-UI**  
-- 🔧 Build REST APIs and backend services with robust business logic  
-- 📱 Create responsive, user-friendly frontends  
-- 🐳 Use **Docker** & **Redis** for containerization and caching  
+I love turning real-world problems into efficient, scalable applications with clean backend systems and thoughtful architecture.
+
+- 💻 Build full-stack web apps with **Java**, **Spring Boot**, **ReactJS**, **TypeScript**
+- 🔧 Design REST APIs and backend services with robust business logic and separation of concerns  
+- 📱 Create responsive, interactive frontends with **Material-UI**
+- 🐳 Containerize projects using **Docker**, implement caching with **Redis**  
 - 🧠 Regularly solve DSA problems to sharpen my algorithmic and problem-solving skills  
 
 ---
 
 ## 📚 Current Projects
 
-- 🛒 **Wellness Cart** — Ecommerce app using React, Spring Boot, MySQL, Docker, Redis caching  
-- 📊 **DSA Tracker** — Tracking progress on Striver’s A2Z roadmap and interview prep  
+- 🛒 **Wellness Cart** — Full-stack ecommerce platform built with **React**, **Spring Boot**, **MySQL**, **Docker**, and **Redis**  
+  **Key Features:**
+  - Product filters with pagination  
+  - Login required for cart and order access  
+  - Cart preserved across login (via `localStorage`)  
+  - Multi-step checkout (Address → Payment → Review)  
+  - Dockerized setup with MySQL, Redis, and Spring Boot
+
+- 📊 **DSA Tracker** — Practicing a wide range of **Data Structures & Algorithms** including arrays, strings, linked lists, recursion, binary search, sorting, and more.  
+
+
+ 
 
 ---
 
