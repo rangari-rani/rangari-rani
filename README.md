@@ -20,13 +20,18 @@ I love turning real-world problems into efficient, scalable applications with cl
 
 ## 📚 Current Projects
 
-- 🛒 **Wellness Cart** — Full-stack ecommerce platform built with **React**, **Spring Boot**, **MySQL**, **Docker**, and **Redis**  
-  **Key Features:**
-  - Product filters with pagination  
-  - Login required for cart and order access  
-  - Cart preserved across login (via `localStorage`)  
-  - Multi-step checkout (Address → Payment → Review)  
-  - Dockerized setup with MySQL, Redis, and Spring Boot
+### 🛒 Wellness Cart  
+_Completed on: **27 May 2025**_  
+**Type:** Full Stack User Flow CRUD App | **Built:** 5+ Features  
+**Stack:** React | Spring Boot | MySQL | Redis | Docker  
+
+**🔧 Key Features:**
+- 🔍 Product filters with pagination
+- 🔐 Login required for cart and order access
+- 💾 Cart preserved across login (via `localStorage`)
+- 💳 Multi-step checkout (Address → Payment → Review)
+- 🐳 Dockerized setup with MySQL, Redis, and Spring Boot
+
 
 - 📊 **DSA Tracker** — Practicing a wide range of **Data Structures & Algorithms** including arrays, strings, linked lists, recursion, binary search, sorting, and more.  
 
