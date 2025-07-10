@@ -21,7 +21,7 @@ I love turning real-world problems into efficient, scalable applications with cl
 ## 📚 Current Projects
 
 ### 🛒 Wellness Cart  
-**Type:** Full Stack User Flow CRUD App | **Built:** 5+ Features 
+**Type:** Full Stack User Flow CRUD App | **Built:** 5+ Features  
 **Stack:** React | Spring Boot | MySQL | Redis | Docker  
 
 **🔧 Key Features:**
