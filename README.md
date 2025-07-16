@@ -2,7 +2,7 @@
 
 ### 🎓 MCA Graduate | 🎖️ CDAC Certified Full Stack Developer (ReactJS + Spring Boot)
 
-Welcome to my GitHub! I’m passionate about building scalable full-stack applications and mastering Data Structures & Algorithms (DSA) through consistent practice and projects. Always eager to learn new technologies and collaborate on exciting projects.
+Welcome to my GitHub! I’m passionate about building scalable full-stack applications. Always eager to learn new technologies and collaborate on exciting projects.
 
 ---
 
@@ -14,7 +14,6 @@ I love turning real-world problems into efficient, scalable applications with cl
 - 🔧 Design, document, and test REST APIs using **Spring Boot** and **Postman**  
 - 📱 Create responsive, interactive frontends with **Material-UI**
 - 🐳 Build Dockerized environments and boost performance using Redis caching  
-- 🧠 Regularly solve DSA problems to sharpen my algorithmic and problem-solving skills  
 
 ---
 
@@ -33,20 +32,13 @@ I love turning real-world problems into efficient, scalable applications with cl
 
 ---
 
-📊 **DSA Tracker** — Practicing a wide range of **Data Structures & Algorithms** including:
-
-- Arrays, Strings, Linked Lists  
-- Recursion, Binary Search, Sorting and more 
-
----
-
 ## 🛠️ Tech Stack
 
 | Backend              | Frontend             | Databases          | Tools & More               |
 |----------------------|----------------------|--------------------|----------------------------|
 | ☕ Java, Spring Boot  | ⚛️ ReactJS           | 🐬 MySQL           | 🐳 Docker, Redis, Maven    |
 | 🔗 REST APIs          | 📜 JavaScript        | 🍃 MongoDB         | 🧑‍💻 IntelliJ IDEA, VS Code |
-| 📚 DSA & Algorithms   | 📘 TypeScript        |                    | 🔧 Git, GitHub              |
+|                       | 📘 TypeScript        |                    | 🔧 Git, GitHub              |
 
 ---
 
