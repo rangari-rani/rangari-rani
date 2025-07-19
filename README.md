@@ -37,7 +37,7 @@ I love turning real-world problems into efficient, scalable applications with cl
 | Backend              | Frontend             | Databases          | Tools & More               |
 |----------------------|----------------------|--------------------|----------------------------|
 | ☕ Java, Spring Boot  | ⚛️ ReactJS           | 🐬 MySQL           | 🐳 Docker, Redis, Maven    |
-| 🔗 REST APIs          | 📜 JavaScript        | 🍃 MongoDB         | 🧑‍💻 IntelliJ IDEA, VS Code |
+| 🔗 REST APIs          | 📜 JavaScript        |                    | 🧑‍💻 IntelliJ IDEA, VS Code |
 |                       | 📘 TypeScript        |                    | 🔧 Git, GitHub              |
 
 ---
