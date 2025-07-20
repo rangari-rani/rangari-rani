@@ -1,5 +1,13 @@
 # 👋 Hi, I’m Rani Rangari
 
+[![MCA](https://img.shields.io/badge/MCA-RTMNU_Nagpur,_2022-purple)](https://www.nagpuruniversity.ac.in/)
+[![PG-DAC](https://img.shields.io/badge/PG--DAC-CDAC_Nagpur,_2023-blue)](https://www.cdac.in/)
+[![Java + Spring Boot](https://img.shields.io/badge/Backend-Java_&_Spring_Boot-brightgreen)](https://spring.io/projects/spring-boot)
+[![ReactJS](https://img.shields.io/badge/Frontend-ReactJS-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
+[![Full Stack](https://img.shields.io/badge/Role-Full_Stack_Developer-orange)](https://github.com/)
+
+
+
 ### 🎓 MCA Graduate | 🎖️ CDAC Certified Full Stack Developer (ReactJS + Spring Boot)
 
 Welcome to my GitHub! I’m passionate about building scalable full-stack applications. Always eager to learn new technologies and collaborate on exciting projects.
@@ -41,6 +49,17 @@ I love turning real-world problems into efficient, scalable applications with cl
 |                       | 📘 TypeScript        |                    | 🔧 Git, GitHub              |
 
 ---
+<!-- 
+## 📂 Explore My Learning Journey
+
+Along with production-style projects, I’ve also maintained academic repositories:
+
+- 🎓 **[MCA Academic Projects](https://github.com/rangari-rani/academic-projects-mca)** – Built during my Master’s at RTMNU, **Nagpur, India**
+- 🎖️ **[CDAC Academic Projects](https://github.com/rangari-rani/academic-projects-cdac)** – Developed during my PG-DAC at CDAC, **Nagpur, India**
+
+These show how my foundations were built before diving into real-world full-stack work.
+
+---
 
 ## 📫 Let’s Connect
 
@@ -50,6 +69,6 @@ Feel free to reach out or connect with me on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rani_Rangari-blue?logo=linkedin)](https://www.linkedin.com/in/rani-rangari/)
 
 ---
-
+-->
 ⭐️ Feel free to explore my repos, star the ones you like, and connect with me!  
 Let’s build, learn and grow together.
