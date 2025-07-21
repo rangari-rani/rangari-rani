@@ -60,7 +60,7 @@ Along with production-style projects, I’ve also maintained academic repositori
 These show how my foundations were built before diving into real-world full-stack work.
 
 ---
-
+-->
 ## 📫 Let’s Connect
 
 I'm currently open to full-time roles as a **Java Full Stack Developer** (ReactJS + Spring Boot).  
@@ -69,6 +69,7 @@ Feel free to reach out or connect with me on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rani_Rangari-blue?logo=linkedin)](https://www.linkedin.com/in/rani-rangari/)
 
 ---
--->
-⭐️ Feel free to explore my repos, star the ones you like, and connect with me!  
-Let’s build, learn and grow together.
+
+⭐️ Explore the repositories to learn from real-world projects in full-stack development.
+If something helps or inspires you, consider leaving a ⭐ and connecting!
+
