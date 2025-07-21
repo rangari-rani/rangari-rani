@@ -70,6 +70,5 @@ Feel free to reach out or connect with me on LinkedIn:
 
 ---
 
-⭐️ Explore the repositories to learn from real-world projects in full-stack development.
-If something helps or inspires you, consider leaving a ⭐ and connecting!
-
+⭐️ Feel free to explore the repositories — they showcase real-world projects in full-stack development.
+If something helps or inspires you, consider leaving a ⭐!
