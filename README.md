@@ -49,18 +49,18 @@ I love turning real-world problems into efficient, scalable applications with cl
 |                       | 📘 TypeScript        |                    | 🔧 Git, GitHub              |
 
 ---
-<!-- 
+
 ## 📂 Explore My Learning Journey
 
 Along with production-style projects, I’ve also maintained academic repositories:
 
 - 🎓 **[MCA Academic Projects](https://github.com/rangari-rani/academic-projects-mca)** – Built during my Master’s at RTMNU, **Nagpur, India**
-- 🎖️ **[CDAC Academic Projects](https://github.com/rangari-rani/academic-projects-cdac)** – Developed during my PG-DAC at CDAC, **Nagpur, India**
+<!-- - 🎖️ **[CDAC Academic Projects](https://github.com/rangari-rani/academic-projects-cdac)** – Developed during my PG-DAC at CDAC, **Nagpur, India**-->
 
 These show how my foundations were built before diving into real-world full-stack work.
 
 ---
--->
+
 ## 📫 Let’s Connect
 
 I'm currently open to full-time roles as a **Java Full Stack Developer** (ReactJS + Spring Boot).  
