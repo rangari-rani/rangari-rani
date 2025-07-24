@@ -54,8 +54,8 @@ I love turning real-world problems into efficient, scalable applications with cl
 
 Along with production-style projects, I’ve also maintained academic repositories:
 
-- 🎓 **[MCA Academic Projects](https://github.com/rangari-rani/academic-projects-mca)** – Built during my Master’s at RTMNU, **Nagpur, India**
-<!-- - 🎖️ **[CDAC Academic Projects](https://github.com/rangari-rani/academic-projects-cdac)** – Developed during my PG-DAC at CDAC, **Nagpur, India**-->
+- 🎓 **[MCA Academic Projects](https://github.com/rangari-rani/academic-projects-mca)** – A mix of web, desktop, and algorithmic apps built during my Master’s at RTMNU, **Nagpur, India**
+- 🎖️ **[CDAC Projects](https://github.com/rangari-rani/academic-projects-cdac)** – A curated set of full-stack web apps built during and after my PG-DAC journey at CDAC, **Nagpur, India**
 
 These show how my foundations were built before diving into real-world full-stack work.
 
