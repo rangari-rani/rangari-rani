@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Rani Rangari
 
-[![MCA](https://img.shields.io/badge/MCA-RTMNU_Nagpur,_2022-purple)](https://www.nagpuruniversity.ac.in/)
-[![PG-DAC](https://img.shields.io/badge/PG--DAC-CDAC_Nagpur,_2023-blue)](https://www.cdac.in/)
+[![MCA](https://img.shields.io/badge/MCA,_2022-purple)](https://www.nagpuruniversity.ac.in/)
+[![PG-DAC](https://img.shields.io/badge/PG--DAC-CDAC,_2023-blue)](https://www.cdac.in/)
 [![Java + Spring Boot](https://img.shields.io/badge/Backend-Java_&_Spring_Boot-brightgreen)](https://spring.io/projects/spring-boot)
 [![ReactJS](https://img.shields.io/badge/Frontend-ReactJS-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 [![Full Stack](https://img.shields.io/badge/Role-Full_Stack_Developer-orange)](https://github.com/)
