@@ -6,9 +6,9 @@ I develop full-stack applications and reusable React & Spring Boot components, t
 
 ## 📚 Key Project : Wellness Cart  
 
-A full-stack eCommerce demo built with **React & Spring Boot**, featuring reusable UI components, responsive design, and multi-step checkout.  
+A full-stack eCommerce platform built with **React & Spring Boot**, highlighting reusable components, responsive design, and key eCommerce workflows.  
 
-🎥 [Video Demo on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7333097056221155328/)  
+🎥 [Watch the demo on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7333097056221155328/)  | 💻 [View the GitHub Repository](https://github.com/rangari-rani/wellness_cart)
 
 ---
 
