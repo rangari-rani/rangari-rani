@@ -4,12 +4,11 @@ I develop full-stack applications and reusable React & Spring Boot components, t
 
 ---
 
-## 📚 Key Projects
+## 📚 Key Project : Wellness Cart  
 
-### 🛍️ Wellness Cart
 A full-stack eCommerce demo built with **React & Spring Boot**, featuring reusable UI components, responsive design, and multi-step checkout.  
+
 🎥 [Video Demo on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7333097056221155328/)  
-**Focus:** Learning & teaching CRUD functionality, state management, and Dockerized deployment.
 
 ---
 
