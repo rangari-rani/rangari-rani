@@ -21,8 +21,6 @@ A full-stack eCommerce platform built with **React & Spring Boot**, featuring re
 
 ---
 
-Open to full-time roles as a **Java Full Stack Developer** (ReactJS + Spring Boot). 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rani_Rangari-blue?logo=linkedin)](https://www.linkedin.com/in/rani-rangari/)
 ![Profile views](https://komarev.com/ghpvc/?username=rangari-rani&color=gray)
 
