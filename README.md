@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rani Rangari
 
-Building practical web apps & reusable components with React | Nextjs | Spring Boot — sharing my learning along the way.
+Building practical web apps & reusable components with React | Spring Boot — sharing my learning along the way.
 
 ---
 
