@@ -1,14 +1,24 @@
 # 👋 Hi, I’m Rani Rangari
 
-Building practical web apps & reusable components with React | Spring Boot — sharing my learning along the way.
+I build and structure web applications with a focus on scalable UI and clear user flows.  
+
+I document how I build and structure projects here:  https://buildwithrani.com
 
 ---
 
-## Key Project : Wellness Cart  
+## Featured Project Wellness Cart  
 
-A full-stack eCommerce platform built with **React & Spring Boot**, featuring reusable components, responsive design, and key eCommerce workflows.  
+Full-stack eCommerce application built using **React and Spring Boot**, focused on reusable components, clean structure, and  eCommerce workflows.  
 
 🎥 [Watch the demo on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7333097056221155328/)  | 💻 [View the GitHub Repository](https://github.com/rangari-rani/wellness_cart)
+
+---
+
+## Tech Focus
+
+- React
+- Spring Boot 
+- Full-stack architecture
 
 ---
 
