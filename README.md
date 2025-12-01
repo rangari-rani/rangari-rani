@@ -12,8 +12,7 @@ React • Spring Boot • Full-stack fundamentals
 ## 🌟 Featured Project — Wellness Cart
 A full-stack eCommerce application built with **React + Spring Boot**, featuring reusable components, clean folder structure, and end-to-end product workflows.
 
-🎥 [Live Demo](https://www.linkedin.com/feed/update/urn:li:activity:7333097056221155328/)  
-💻 [Repository](https://github.com/rangari-rani/wellness_cart)
+**🎥 [Live Demo](https://www.linkedin.com/feed/update/urn:li:activity:7333097056221155328/)** • **💻 [Repository](https://github.com/rangari-rani/wellness_cart)**
 
 ---
 
