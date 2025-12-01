@@ -19,7 +19,7 @@ A full-stack eCommerce application built with **React + Spring Boot**, featuring
 ## Statistics
 
 <div>
-<img src="https://streak-stats.demolab.com/?user=rangari-rani&theme=react" height="154" />
+<!-- <img src="https://streak-stats.demolab.com/?user=rangari-rani&theme=react" height="154" /> -->
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangari-rani&layout=compact&theme=react&hide=php&langs_count=6" />
 </div>
 
