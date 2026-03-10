@@ -8,7 +8,7 @@
 ## 🚀 Technical Focus
 Java • Spring Boot • Spring Security • JWT • JPA/Hibernate • MySQL • React    
 Order & Payment Lifecycles • Cart Aggregates • Domain Modeling • Audit Logging  
-Docker • Swagger/OpenAPI
+Docker • Swagger/OpenAPI • JUnit
 
 ---
 
