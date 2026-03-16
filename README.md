@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Rani Rangari  
-**Backend Software Engineer building domain-driven e-commerce systems with Java and Spring Boot.**
+**Backend Engineer building domain-driven e-commerce systems with Java and Spring Boot.**
 
 🌐 https://buildwithrani.com  
 
